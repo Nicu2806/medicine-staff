@@ -1,0 +1,6 @@
+.idea/
+system/logs
+system/data/settings.php
+
+*.log
+*.txt

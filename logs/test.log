@@ -1,0 +1,42 @@
+[2024-11-06 16:40:36] [INFO] [PID:3227] [
+        {
+            "id": 17,
+            "created_at": "2024-11-06 16:26:00",
+            "location_description": "aaaaaaaaaaaaaa",
+            "geo_location": "",
+            "location_name": "aaaaaaaaaaaaaa",
+            "user_name": "VLADISLAV CORCODEL",
+            "user_email": "vladcorcodel12@mail.ru",
+            "images_path": "[\"uploads\\\/experiences\\\/img_672b8a889da01.jpg\"]"
+        },
+        {
+            "id": 18,
+            "created_at": "2024-11-06 16:26:03",
+            "location_description": "aaaaaaaaaaaaaa",
+            "geo_location": "",
+            "location_name": "aaaaaaaaaaaaaa",
+            "user_name": "VLADISLAV CORCODEL",
+            "user_email": "vladcorcodel12@mail.ru",
+            "images_path": "[\"uploads\\\/experiences\\\/img_672b8a8b862aa.jpg\"]"
+        },
+        {
+            "id": 19,
+            "created_at": "2024-11-06 16:26:30",
+            "location_description": "image_count",
+            "geo_location": "47.0188032,28.8391168",
+            "location_name": "image_count",
+            "user_name": "VLADISLAV CORCODEL",
+            "user_email": "vladcorcodel12@mail.ru",
+            "images_path": "[\"uploads\\\/experiences\\\/img_672b8aa621f17.jpg\"]"
+        },
+        {
+            "id": 20,
+            "created_at": "2024-11-06 16:30:20",
+            "location_description": "VLADISLAVVLADISLAVVLADISLAV",
+            "geo_location": "47.0188032,28.8391168",
+            "location_name": "VLADISLAVVLADISLAVVLADISLAV",
+            "user_name": "VLADISLAV CORCODEL",
+            "user_email": "vladcorcodel12@mail.ru",
+            "images_path": "[\"files\\\/temp\\\/2024-Noiembrie-06\\\/img_672b8b8c59ef6.png\",\"files\\\/temp\\\/2024-Noiembrie-06\\\/img_672b8b8c59f8f.png\",\"files\\\/temp\\\/2024-Noiembrie-06\\\/img_672b8b8c5a008.png\",\"files\\\/temp\\\/2024-Noiembrie-06\\\/img_672b8b8c5a0c2.jpg\"]"
+        }
+    ]
