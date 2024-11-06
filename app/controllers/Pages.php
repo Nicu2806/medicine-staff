@@ -52,4 +52,15 @@ class Pages extends Controller
     // Folosim handlePage pentru a încărca view-ul
     $this->handlePage('patient-watch', $data);
   }
+  public function dataReports()
+  {
+
+    $data = [
+      'title' => 'Staff Tracking System',
+      'description' => 'Monitor and track medical staff in real-time'
+    ];
+
+    // Folosim handlePage pentru a încărca view-ul
+    $this->handlePage('data-reports', $data);
+  }
 }

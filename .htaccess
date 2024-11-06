@@ -5,3 +5,4 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^staff-track/?$ index.php?url=pages/staffTrack [L,QSA]
 RewriteRule ^patient-watch/?$ index.php?url=pages/patientWatch [L,QSA]
+RewriteRule ^data-reports/?$ index.php?url=pages/dataReports [L,QSA]

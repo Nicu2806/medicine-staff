@@ -26,7 +26,7 @@ class Controller
   // Metodă modificată pentru a include și staff-track
   protected function handlePage($pageName, $data)
   {
-    $validPages = ['index', 'map', 'staff-track', 'patient-watch']; // Adăugăm staff-track în paginile valide
+    $validPages = ['index', 'map', 'staff-track', 'patient-watch', 'data-reports']; // Adăugăm staff-track în paginile valide
 
     if (in_array($pageName, $validPages) && file_exists('./app/views/pages/' . $pageName . '.php'))
     {
